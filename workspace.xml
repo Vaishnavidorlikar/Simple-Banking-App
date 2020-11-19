@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e41212b5-a145-4a9d-a9b9-1ed29bac690b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1k87t7bZnl6JvJub2NEg7Hnz6gm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BankingSystem.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Android JUnit.simple banking app">
+    <configuration name="Unnamed" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
+      <module name="Simple-Banking-System" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.Unnamed" />
+      <item itemvalue="Android JUnit.Unnamed" />
+      <item itemvalue="Android JUnit.simple banking app" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e41212b5-a145-4a9d-a9b9-1ed29bac690b" name="Default Changelist" comment="" />
+      <created>1605070594101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605070594101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605089910270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605089910270" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1605073240752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605073240752" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1605073522623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605073522623" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1605089712531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605089712531" />
+  </component>
+</project>
